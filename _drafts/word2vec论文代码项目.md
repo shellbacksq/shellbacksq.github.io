@@ -5,7 +5,7 @@
 介绍论文之前先了解下语言模型 language model.
 ### 1.1 language model
 
-attention机制
+
 
 ### 1.2 论文梳理
 
